@@ -1,0 +1,18 @@
+Cargo é o sistema padrão de build do Rust, muito bom para inserir dependencias em projetos mais complexos.
+Já vem instalado com o pacote do Rust.
+
+Para criar um Cargo Project:
+    - cargo new {nome_cargo}
+
+Para buildar o projeto (gerar executável):
+    - cargo build
+
+Para buildar e executar:
+    - cargo run
+
+Para ver se é compilável (antes de buildar o projeto):
+    - cargo check
+
+Para liberar o uso do código com otimizações:
+    - cargo build --release 
+    (notas: apenas quando for finalizado, e o executável é gerado no /target/release, não no /target/debug)
