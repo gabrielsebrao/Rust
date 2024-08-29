@@ -1,0 +1,5 @@
+Para dar update em um Crate package:
+    - cargo update
+
+Para ler a documentação de um Crate:
+    - cargo doc --open
