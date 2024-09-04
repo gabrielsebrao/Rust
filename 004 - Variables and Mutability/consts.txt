@@ -1,0 +1,3 @@
+a keyword const serve para variaveis que sempre serão constantes no código
+    const PI = 3.14
+    const NOME = "Gabriel"
