@@ -1,0 +1,1 @@
+/home/gab/Área\ de\ Trabalho/Rust/008\ -\ Temperature\ Converter/temperature_converter/target/debug/temperature_converter: /home/gab/Área\ de\ Trabalho/Rust/008\ -\ Temperature\ Converter/temperature_converter/src/main.rs
