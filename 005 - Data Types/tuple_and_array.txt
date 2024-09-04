@@ -1,0 +1,22 @@
+Tuple
+    tuple é uma estrtura de dados que pode conter diferentes tipos num tamanho definido e imutável
+        let x = (3, 'G');
+
+    a sua definicao de tipo é, por exemplo:
+        let tuple: (i32, char); 
+
+    para acessar uma variavel em especifico, da tuple acima:
+        let numero = tuple.0;
+
+    voce tambem pode declarar variaveis em formato de tuples:
+        let (x, y) = (3, 'G'); // x = 3, y = 'G'
+
+Array 
+    array é uma estrutura de dados que contem um tipo especifico de dado num tamanho definido e imutavel
+        let x = [3, 4, 5];
+
+    a sua definicao de tipo é, universalmente:
+        let array: [LENGTH, DATA_TYPE];
+
+    tal como um array de 5 variaveis do tipo char;
+        let array: [5; char] = ['G', 'a', 'b', 'r', 'i'];
